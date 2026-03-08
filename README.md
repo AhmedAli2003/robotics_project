@@ -410,3 +410,8 @@ It fulfills the mandatory assignment requirements and includes multiple extensio
 - **Simple GUI visualization**
 
 The result is a complete, understandable, and presentation-ready robotics programming project.
+
+---
+
+### Student Name: Ahmed I. F. Abu Ali
+### Student Number: 120220776
